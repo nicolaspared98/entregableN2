@@ -1,0 +1,13 @@
+$color-texto: black;
+$fuente-texto: "Arial","Helvetica";
+
+.portada{
+    margin-top: 25px;
+    display: flex;
+    color:$color-texto;
+    text-align: center;
+    font-family: $fuente-texto;
+}
+    
+    
+
